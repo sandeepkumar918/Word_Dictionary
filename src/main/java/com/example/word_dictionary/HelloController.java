@@ -1,0 +1,8 @@
+package com.example.word_dictionary;
+
+import javafx.fxml.FXML;
+import javafx.scene.control.Label;
+
+public class HelloController {
+
+}
